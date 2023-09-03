@@ -15,6 +15,7 @@ cout<<"\n This is value of int as a constant \n"<<c;
 //Now we will try to change value of defined constant below and that should not work because constant is not changed 
 const int d=986;
 //int d=456;
+//so i commented the upper line because with this line was changing the constant value hence code was not wroking properly
 cout<<"\n Thus output will try to show value of constant that we are trying to change from const d 986 to int d 456 let see \n "<<d;
 
 }

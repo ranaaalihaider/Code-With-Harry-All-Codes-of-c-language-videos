@@ -2,6 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
+    //These are manipulators in c++
     //now we will use function of iomapin 
     int a=4, b=46, c=9984;
 
